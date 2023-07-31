@@ -16,3 +16,15 @@ Welcome to Treasure Island - a thrilling text-based adventure game inspired by t
 -Inside the house, you'll find three doors of different colors (red, yellow, and blue). Choose wisely!
 
 -Each door leads to different challenges and outcomes. Be careful not to get caught or face danger!
+
+## Contributing
+I welcome contributions from anyone interested in enhancing the gameplay, improving the code, fixing bugs, or adding new features. Feel free to open issues, submit pull requests, or share your ideas with me.
+
+## Acknowledgements
+The idea for this game was inspired by "The Italian Job" heist movie.
+Thanks to the creators of the movie and the adventure game concept for the inspiration.
+
+## Contact
+For any inquiries or feedback, please reach out to kmayur632002@gmail.com .
+
+Happy treasure hunting! Enjoy the game! 🏴‍☠️💎
